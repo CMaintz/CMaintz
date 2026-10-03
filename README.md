@@ -10,7 +10,7 @@ During my internship as an ecommerce-consultant at WEXO, I built a Shopware plug
 - [dev-insight](https://github.com/CMaintz/dev-insight) - scores GitHub repos on activity, structure and quality. .NET 10 + Angular, architecture tests, 90%+ coverage.
 - [jev-tools](https://github.com/CMaintz/jev-tools) - small tools around TypeSafe AI's cheap Jev model: an agent tool-call guard, issue triage, bulk classification.
 - [tech-atlas](https://github.com/CMaintz/tech-atlas) - bilingual (EN/DA) glossary of tech terms with a graph explorer. [Live](https://cmaintz.github.io/tech-atlas/).
-- [foundry](https://github.com/CMaintz/foundry) - the reusable CI setup most of these run on (lint, tests, security scans, coverage ratchets).
+- [foundry](https://github.com/CMaintz/foundry) - the reusable CI setup most of these run on (lint, tests, security scans, coverage ratchets) as well as coding agent feedback loops.
 - [movie-wheel](https://github.com/CMaintz/movie-wheel) - for when picking a movie takes longer than watching it. [Live](https://movie-wheel.cmaintz-site.workers.dev).
 
 Sites: [maintz.dev](https://maintz.dev) · [LinkedIn](https://www.linkedin.com/in/christoffer-maintz)
