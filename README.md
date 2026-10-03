@@ -13,4 +13,4 @@ During my internship as an ecommerce-consultant at WEXO, I built a Shopware plug
 - [foundry](https://github.com/CMaintz/foundry) - the reusable CI setup most of these run on (lint, tests, security scans, coverage ratchets).
 - [movie-wheel](https://github.com/CMaintz/movie-wheel) - for when picking a movie takes longer than watching it. [Live](https://movie-wheel.cmaintz-site.workers.dev).
 
-Site: [maintz.dev](https://maintz.dev) · [LinkedIn](https://www.linkedin.com/in/christoffer-maintz)
+Sites: [maintz.dev](https://maintz.dev) · [LinkedIn](https://www.linkedin.com/in/christoffer-maintz)
