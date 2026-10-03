@@ -1,6 +1,6 @@
 ### Hi, I'm Christoffer
 
-Developer in Aarhus, Denmark. Datamatiker (AP Computer Science) from Erhvervsakademi Aarhus. Mostly Java/Spring and C#/.NET on the backend, Angular or React on the front, and an unhealthy amount of CI config.
+Developer in Aarhus, Denmark. Datamatiker (AP Computer Science) from Aarhus Business Academy. Mostly Java/Spring and C#/.NET on the backend, Angular, Vue and React on the frontend, and an unhealthy amount of CI & agentic workflow config.
 
 During my internship as an ecommerce-consultant at WEXO, I built a Shopware plugin that uses generative AI to write product copy & metadata from product images. It's in daily production use and has saved the client hundreds of hours, becoming a business critical system. That code belongs to them, so it's not here.
 
