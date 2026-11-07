@@ -4,7 +4,11 @@
 
 Developer in Aarhus, Denmark. Datamatiker (AP Computer Science) from Aarhus Business Academy. Mostly Java/Spring and C#/.NET on the backend, Angular, Vue and React on the frontend, and an unhealthy amount of CI & agentic workflow config.
 
-During my internship as an ecommerce-consultant at WEXO, I built a Shopware plugin that uses generative AI to write product copy & metadata from product images. It's in daily production use and has saved the client hundreds of hours, becoming a business critical system. That code belongs to them, so it's not here.
+I've automated tasks for half a dozen small Danish businesses, automating anywhere from dozens to hundreds of hours of manual, dull work.\
+I'm of the belief that happy employees are foundational to the health and longevity of any well-run company.\
+Thus my aim with AI-enablement and automation (be it AI or programmatic) is to remove friction, and free up time for tasks where a human touch and authenticity create the most value, for both the employees and the business.
+
+This all started during my internship as an ecommerce-consultant at WEXO. I built an automated generative AI system to write product copy & metadata from product images. It's still live in production and has saved the client hundreds of hours, becoming a business critical system.
 
 **Stuff worth looking at**
 
