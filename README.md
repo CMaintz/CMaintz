@@ -19,3 +19,5 @@ During my internship as an ecommerce-consultant at WEXO, I built a Shopware plug
 - [movie-wheel](https://github.com/CMaintz/movie-wheel) - for when picking a movie takes longer than watching it. [Live](https://moviewheel.maintz.dev).
 
 Sites: [maintz.dev](https://maintz.dev) · [LinkedIn](https://www.linkedin.com/in/christoffer-maintz)
+
+<img width="3168" height="792" alt="boring" src="https://github.com/user-attachments/assets/217e94cc-0627-410b-9915-bb9392d5c6ff" />
