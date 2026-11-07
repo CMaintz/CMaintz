@@ -1,4 +1,6 @@
-### Hi, I'm Christoffer
+<img width="3168" height="792" alt="boring" src="https://github.com/user-attachments/assets/217e94cc-0627-410b-9915-bb9392d5c6ff" />
+
+### Hi, I'm Chris!
 
 Developer in Aarhus, Denmark. Datamatiker (AP Computer Science) from Aarhus Business Academy. Mostly Java/Spring and C#/.NET on the backend, Angular, Vue and React on the frontend, and an unhealthy amount of CI & agentic workflow config.
 
@@ -20,4 +22,3 @@ During my internship as an ecommerce-consultant at WEXO, I built a Shopware plug
 
 Sites: [maintz.dev](https://maintz.dev) · [LinkedIn](https://www.linkedin.com/in/christoffer-maintz)
 
-<img width="3168" height="792" alt="boring" src="https://github.com/user-attachments/assets/217e94cc-0627-410b-9915-bb9392d5c6ff" />
